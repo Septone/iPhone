@@ -30,12 +30,11 @@ The following are two guides on learning SWIFT.  (In downloads, upload to dropbo
 
 - SWIFT Language
 
-iOS Developer Libraryhttps://developer.apple.com/library/ios/navigation/
+iOS Developer Library: https://developer.apple.com/library/ios/navigation/
 
 Alright, now that's out of the way. The main way Developers make programs and test them out is by using a MAC machine with XCode installed. After testing it in the simulator you test it on the actual devices. Since all that costs money and resources I cannot invest at the moment, I'll look into a VM machine we can test it out on. 
 It looks like VMWare or the open source alternative VirtualBox can install Mac OS X.
 
-XCode on Windows:
-https://blog.udemy.com/xcode-on-windows/
+XCode on Windows: https://blog.udemy.com/xcode-on-windows/
 
 That's all for today. I'll have to set this up on my main laptop as the work laptop has restrictions.
