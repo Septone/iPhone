@@ -26,7 +26,8 @@ Continuing log on OneNote and updating READ ME later.
 
 There seems to be tools within Xcode that allows you to use the GUI to develop a framework of how you want the application to look before you even start coding. Menu options that toggle features for objects you place in the Xcode viewer. I'll look into that later. 
 
-The following are two guides on learning SWIFT.  (In downloads, upload to dropbox when I'm out of the office)- SWIFT For Dummies
+The following are two guides on learning SWIFT.  (In downloads, upload to dropbox when I'm out of the office)
+- SWIFT For Dummies
 
 - SWIFT Language
 
